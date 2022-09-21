@@ -1,5 +1,5 @@
 # VS_UpdateVersion
-A script that automaticly updates the version number in Visula Studio
+A script that automaticly updates the version number in Visual Studio
 
 UpdateVersion.vbs 1.0, Sven Rowoldt, Sep. 2022, works with VisualStudio 2019
 
